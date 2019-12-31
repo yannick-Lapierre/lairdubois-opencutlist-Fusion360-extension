@@ -1,30 +1,28 @@
 
-OpenCutList by L'Air du Bois
+**OpenCutList** is an [Autodesk Fusion 360](hhttps://www.autodesk.com/products/fusion-360/overview) Extension for automating the generation of cut lists and cutting diagrams for woodworking projects.
 
-OpenCutList is an Autodesk Fusion 360 Extension for automating the generation of cut lists and cutting diagrams for woodworking projects.
+## Download and Install
+_comming soon_
 
-￼
-
-￼
-
-Download and Install
-
-Contributors
-
-Code Contributors
+## Contributors
+_comming soon_
 
 Financial Contributors
 
-Individuals
+[This project exists thanks to all the people who contribute.]("https://github.com/yannick-Lapierre/lairdubois-opencutlist-Fusion360-extension/graphs/contributors)
 
-Organizations
+#### Individuals
+_comming soon_
 
-License
+#### Organizations
+_comming soon_
 
-This code is under the GNU GPLv3 license .
+## License
 
-Read the license .
+This code is under the **GNU GPLv3 license**.
 
-Documentation
+[Read the license](LICENSE).
 
-Read the documentation .
+## Documentation
+
+[Read the documentation](docs/00-index.md).
